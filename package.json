@@ -1,0 +1,24 @@
+{
+  "name": "02-streams",
+  "version": "1.0.0",
+  "description": "The Cat Shelter App.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenMan79/cat-shelter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenMan79/cat-shelter/issues"
+  },
+  "homepage": "https://github.com/KenMan79/cat-shelter#readme",
+  "dependencies": {
+    "formidable": "^1.2.2",
+    "nodemon": "^2.0.7"
+  },
+  "keywords": []
+}
