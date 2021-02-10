@@ -2,5 +2,5 @@
 /node_modules
 node_modules
 
-/.ds_store
-.ds_store
+/.DS_Store
+.DS_Store
