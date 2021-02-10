@@ -22,8 +22,10 @@
     "express-generator": "^4.16.1",
     "express-hbs": "^2.3.4",
     "express-view": "^0.1.0",
-    "formidable": "^1.2.2",
-    "nodemon": "^2.0.7"
+    "formidable": "^1.2.2"
   },
-  "keywords": []
+  "keywords": [],
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
